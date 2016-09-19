@@ -1,0 +1,35 @@
+.animalFact {
+	font-style: italic;
+}
+
+.labelText {
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+}
+
+.animalInformation {
+	padding:10px;
+	margin:10px;
+	border: 1px solid grey;
+	border-radius: 10px;
+	background-color: #bca136
+}
+
+.animalImage {
+	margin:10px;
+}
+
+.animalName {
+	margin:10px;
+}
+
+.animalCard {
+	background-color: #829356;
+	box-shadow: 10px 10px 10px grey;
+	border: 1px solid grey;
+	border-radius: 10px;
+	width: 320px
+}
